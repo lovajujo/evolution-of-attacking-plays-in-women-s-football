@@ -1,0 +1,42 @@
+orszag,dli_2019,jatekosszambazis_nepesseg_pct_valtozas_pct,jatekosszambazis_nepesseg_pct_fejlodes_kategorikus,utanpotlas_vane_valtozas_pct,utanpotlas_vane_fejlodes_kategorikus,jatekvezeto_kommunikacio_valtozas_pct,jatekvezeto_kommunikacio_fejlodes_kategorikus,var_valtozas_pct,var_fejlodes_kategorikus,glt_valtozas_pct,glt_fejlodes_kategorikus,sajat_edzokozpont_valtozas_pct,sajat_edzokozpont_fejlodes_kategorikus,sajat_konditerem_valtozas_pct,sajat_konditerem_fejlodes_kategorikus,sajat_regeneracios_terek_valtozas_pct,sajat_regeneracios_terek_fejlodes_kategorikus,foallasu_szakmai_stab_pct_valtozas_pct,foallasu_szakmai_stab_pct_fejlodes_kategorikus,klublicensz_rendszer_valtozas_pct,klublicensz_rendszer_fejlodes_kategorikus,klub_bevetelek_usd_valtozas_pct,klub_bevetelek_usd_fejlodes_kategorikus,liga_bevetelek_usd_valtozas_pct,liga_bevetelek_usd_fejlodes_kategorikus,kereskedelmi_onallosag_valtozas_pct,kereskedelmi_onallosag_fejlodes_kategorikus,penzugyi_fenntarthatosag_valtozas_pct,penzugyi_fenntarthatosag_fejlodes_kategorikus,tamogatas_aranya_pct_valtozas_pct,tamogatas_aranya_pct_fejlodes_kategorikus,stadionlatogatottsag_nepesseg_pct_valtozas_pct,stadionlatogatottsag_nepesseg_pct_fejlodes_kategorikus,nemzetkozi_tv_jogok_valtozas_pct,nemzetkozi_tv_jogok_fejlodes_kategorikus,hazai_tv_jogok_valtozas_pct,hazai_tv_jogok_fejlodes_kategorikus,profi_szerzodesu_jatekosek_pct_valtozas_pct,profi_szerzodesu_jatekosek_pct_fejlodes_kategorikus,munkajogi_garanciak_pct_valtozas_pct,munkajogi_garanciak_pct_fejlodes_kategorikus,eronleti_edzo_valtozas_pct,eronleti_edzo_fejlodes_kategorikus,gyogytornasz_valtozas_pct,gyogytornasz_fejlodes_kategorikus,masszor_valtozas_pct,masszor_fejlodes_kategorikus,dietetikus_valtozas_pct,dietetikus_fejlodes_kategorikus,pszichologus_valtozas_pct,pszichologus_fejlodes_kategorikus,fejlodesi_index_pct,dpi_kategoria
+Argentina,elmaradott,,,,,0.0,0,0.0,0,0.0,0,0.0,0,100.0,1,0.0,0,,,100.0,1,,,,,0.0,0,0.0,0,,,,,0.0,0,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,21.43,stagnáló
+Australia,fejlett,,,,,100.0,1,0.0,0,0.0,0,0.0,0,100.0,1,0.0,0,,,100.0,1,,,,,0.0,0,0.0,0,,,,,0.0,0,100.0,1,,,0.0,0.0,,,,,100.0,1,0.0,0,100.0,1,40.0,robbanásszerű fejlődés
+Brazil,átlagos,0.0,0.0,0.0,0.0,100.0,1,100.0,1,0.0,0,100.0,1,100.0,1,100.0,1,,,100.0,1,,,,,0.0,0,0.0,0,,,,,100.0,1,100.0,1,,,,,,,,,100.0,1,0.0,0,100.0,1,62.5,robbanásszerű fejlődés
+Cameroon,elmaradott,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,100.0,1,0.0,0,,,,,0.0,0,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,14.29,lassú fejlődés
+Canada,fejlett,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,,,,,0.0,0,100.0,1,,,,,0.0,0,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,7.14,stagnáló
+Chile,elmaradott,,,,,0.0,0,0.0,0,0.0,0,0.0,0,100.0,1,0.0,0,,,100.0,1,,,,,0.0,0,0.0,0,,,,,0.0,0,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,21.43,lassú fejlődés
+China PR,fejlett,,,0.0,0.0,100.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,,,,,0.0,0,100.0,1,,,,,0.0,0,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,13.33,lassú fejlődés
+Colombia,elmaradott,0.0,0.0,,,100.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,100.0,1,,,,,0.0,0,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,26.67,robbanásszerű fejlődés
+Costa Rica,elmaradott,,,,,100.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,100.0,1,,,,,0.0,0,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,28.57,lassú fejlődés
+Denmark,átlagos,,,,,100.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,0.0,0,,,,,0.0,0,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,21.43,lassú fejlődés
+England,fejlett,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,160.0,1.0,,,-100.0,-1,0.0,0,,,,,0.0,0,0.0,0,,,0.0,0.0,,,,,0.0,0,0.0,0,0.0,0,5.56,stagnáló
+France,fejlett,,,0.0,0.0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,0.0,0.0,,,0.0,0,0.0,0,,,,,0.0,0,0.0,0,-22.5,-1.0,,,,,,,0.0,0,0.0,0,0.0,0,0.0,stagnáló
+Germany,fejlett,,,0.0,0.0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,0.0,0.0,,,0.0,0,0.0,0,,,,,100.0,1,0.0,0,16.25,1.0,,,,,,,0.0,0,0.0,0,0.0,0,11.76,stagnáló
+Haiti,elmaradott,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,,,,,0.0,0,100.0,1,,,,,0.0,0,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,7.14,robbanásszerű fejlődés
+Hungary,átlagos,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,100.0,1,,,,,0.0,0,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,21.43,lassú fejlődés
+Iceland,átlagos,,,,,100.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,100.0,1,,,,,0.0,0,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,28.57,lassú fejlődés
+Ireland,átlagos,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,,,,,0.0,0,100.0,1,,,,,0.0,0,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,7.14,stagnáló
+Israel,átlagos,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,100.0,1,,,,,0.0,0,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,21.43,lassú fejlődés
+Italy,átlagos,,,,,100.0,1,0.0,0,0.0,0,0.0,0,100.0,1,0.0,0,,,100.0,1,,,,,0.0,0,0.0,0,,,,,100.0,1,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,35.71,robbanásszerű fejlődés
+Jamaica,elmaradott,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,,,,,0.0,0,100.0,1,,,,,0.0,0,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,7.14,stagnáló
+Japan,fejlett,,,0.0,0.0,100.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,,,,,100.0,1,100.0,1,,,,,0.0,0,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,26.67,lassú fejlődés
+Korea Republic,átlagos,,,,,100.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,,,,,0.0,0,100.0,1,,,,,100.0,1,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,21.43,lassú fejlődés
+Mexico,átlagos,0.0,0.0,,,100.0,1,0.0,0,0.0,0,0.0,0,100.0,1,0.0,0,,,100.0,1,,,,,0.0,0,0.0,0,,,,,0.0,0,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,20.0,robbanásszerű fejlődés
+Morocco,elmaradott,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,100.0,1,100.0,1,,,,,100.0,1,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,28.57,robbanásszerű fejlődés
+Netherlands,fejlett,,,0.0,0.0,100.0,1,0.0,0,0.0,0,100.0,1,100.0,1,0.0,0,,,100.0,1,,,,,0.0,0,0.0,0,,,,,0.0,0,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,33.33,robbanásszerű fejlődés
+New Zealand,átlagos,,,,,100.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,100.0,1,,,,,0.0,0,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,28.57,lassú fejlődés
+Nigeria,elmaradott,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,100.0,1,100.0,1,,,,,0.0,0,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,28.57,lassú fejlődés
+Norway,átlagos,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,0.0,0,,,,,100.0,1,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,21.43,lassú fejlődés
+Panama,elmaradott,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,,,,,0.0,0,100.0,1,,,,,0.0,0,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,7.14,robbanásszerű fejlődés
+Philippines,elmaradott,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,,,,,0.0,0,100.0,1,,,,,0.0,0,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,7.14,robbanásszerű fejlődés
+Portugal,átlagos,,,,,100.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,100.0,1,,,,,0.0,0,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,21.43,robbanásszerű fejlődés
+Russia,átlagos,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,100.0,1,,,,,0.0,0,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,21.43,lassú fejlődés
+South Africa,elmaradott,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,100.0,1,0.0,0,,,,,100.0,1,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,28.57,lassú fejlődés
+Spain,fejlett,,,0.0,0.0,100.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,0.0,0,,,,,100.0,1,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,20.0,robbanásszerű fejlődés
+Sweden,fejlett,,,0.0,0.0,100.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,90.0,1.0,,,0.0,0,0.0,0,,,,,100.0,1,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,25.0,lassú fejlődés
+Switzerland,átlagos,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,100.0,1,,,,,0.0,0,100.0,1,,,,,,,,,0.0,0,0.0,0,0.0,0,21.43,lassú fejlődés
+Tanzania,elmaradott,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,0.0,0,,,,,100.0,1,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,14.29,lassú fejlődés
+Thailand,elmaradott,,,,,100.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,0.0,0,,,,,100.0,1,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,21.43,lassú fejlődés
+USA,fejlett,0.0,0.0,0.0,0.0,0.0,0,100.0,1,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,10.0,1.0,,,0.0,0,0.0,0,,,,,0.0,0,0.0,0,0.0,0.0,0.0,0.0,,,,,0.0,0,0.0,0,0.0,0,10.53,stagnáló
+Vietnam,elmaradott,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,0.0,0,,,,,0.0,0,100.0,1,,,,,0.0,0,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,7.14,robbanásszerű fejlődés
+Zambia,elmaradott,,,,,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,100.0,1,,,,,0.0,0,0.0,0,,,,,0.0,0,0.0,0,,,,,,,,,0.0,0,0.0,0,0.0,0,7.14,robbanásszerű fejlődés
