@@ -1,75 +1,41 @@
-team,year,number_of_players,club_license_system,federal_strategy,ref_communication,var,glt,league_sponsor,financial_stability,nat_streaming_rights,int_streaming_rights,pro_players_rate,attendance,club_income,youth_development,exit_2019,exit_2023,social_media
-United States Women's,2019,2.903423,1,1,1,0,0,1,-1,1,1,100,0.002242,5000000.0,67,winner,round of 16,1
-United States Women's,2023,3.600244,1,1,1,1,0,1,-1,1,1,100,0.002424,6000000.0,67,winner,round of 16,1
-England Women's,2019,0.215357,1,1,1,0,0,1,-1,1,1,100,0.001819,2000000.0,100,semifinal,runner up,1
-England Women's,2023,6.073075,1,1,1,0,0,1,-1,1,1,100,0.003435,5500000.0,100,semifinal,runner up,1
-Spain Women's,2019,0.12494,1,1,1,0,0,1,-1,1,1,90,0.000963,500000.0,89,round of 16,winner,1
-Spain Women's,2023,0.299856,1,1,1,0,0,1,-1,1,1,99,0.001284,600000.0,89,round of 16,winner,1
-France Women's,2019,0.220882,1,1,1,0,0,1,-1,1,1,90,0.000901,1500000.0,67,round of 8,round of 8,1
-France Women's,2023,0.532326,1,1,1,0,0,1,-1,1,1,95,0.001042,2000000.0,67,round of 8,round of 8,1
-Germany Women's,2019,0.244863,1,1,1,0,0,1,-1,1,1,90,0.001032,1500000.0,100,round of 8,group round,1
-Germany Women's,2023,0.30363,1,1,1,0,0,1,-1,1,1,81,0.001034,2000000.0,100,round of 8,group round,1
-Sweden Women's,2019,1.95669,1,1,1,0,0,1,-1,1,1,50,0.008004,2500000.0,90,semifinal,semifinal,1
-Sweden Women's,2023,2.426295,1,1,0,0,0,1,-1,1,1,76,0.008162,3500000.0,90,semifinal,semifinal,1
-Japan Women's,2019,0.3083,1,1,1,0,0,1,-1,1,1,90,0.001059,1000000.0,100,round of 16,round of 8,1
-Japan Women's,2023,0.382292,1,1,1,0,0,1,-1,1,1,74,0.001233,2000000.0,100,round of 16,round of 8,1
-Australia Women's,2019,0.590316,1,1,1,0,0,1,-1,1,1,50,0.004706,2500000.0,63,round of 16,semifinal,1
-Australia Women's,2023,0.826443,1,1,0,0,0,1,-1,1,1,87,0.005211,3500000.0,63,round of 16,semifinal,1
-Brazil Women's,2019,0.00716,0,1,1,0,0,1,-1,1,1,50,0.000573,400000.0,93,round of 16,group round,1
-Brazil Women's,2023,0.400955,1,1,1,1,0,1,-1,1,1,78,0.001193,850000.0,93,round of 16,group round,1
-Mexico Women's,2019,0.03962,0,1,1,0,0,1,-1,1,0,50,0.001902,250000.0,81,,,1
-Mexico Women's,2023,1.18859,1,1,1,0,0,1,-1,1,0,99,0.002456,400000.0,81,,,1
-Italy Women's,2019,0.040931,1,1,1,0,0,1,-1,1,1,50,0.000464,300000.0,100,round of 8,group round,1
-Italy Women's,2023,0.05321,1,1,1,0,0,1,-1,1,1,89,0.00063,400000.0,100,round of 8,group round,1
-Netherlands Women's,2019,0.922841,1,1,1,0,0,1,-1,1,0,50,0.003762,300000.0,100,runner up,round of 8,1
-Netherlands Women's,2023,1.144323,1,1,0,0,0,1,-1,1,0,62,0.004821,400000.0,100,runner up,round of 8,1
-Canada Women's,2019,0.78275,0,1,1,0,0,0,-1,1,0,100,,,50,round of 16,group round,1
-Canada Women's,2023,0.900162,1,1,0,0,0,0,0,1,0,100,,,50,round of 16,group round,1
-China PR Women's,2019,0.007179,1,1,1,0,0,1,-1,1,1,100,7.2e-05,1000000.0,90,round of 16,group round,1
-China PR Women's,2023,0.008615,1,1,1,0,0,1,0,1,1,100,8.6e-05,1500000.0,90,round of 16,group round,1
-Korea Republic Women's,2019,0.008133,1,1,1,0,0,1,-1,0,0,50,0.000678,200000.0,25,group round,group round,1
-Korea Republic Women's,2023,0.009597,1,1,1,0,0,1,0,0,0,65,0.000871,300000.0,25,group round,group round,1
-Norway Women's,2019,2.067903,1,1,1,0,0,1,-1,1,1,50,0.008471,500000.0,67,round of 8,round of 16,1
-Norway Women's,2023,2.5642,1,1,0,0,0,1,-1,1,1,42,0.009921,850000.0,67,round of 8,round of 16,1
-Denmark Women's,2019,1.087811,1,1,1,0,0,1,-1,1,1,50,0.005292,300000.0,100,,round of 16,1
-Denmark Women's,2023,1.305373,1,1,1,0,0,1,-1,1,1,29,0.006174,400000.0,100,,round of 16,1
-Portugal Women's,2019,0.13571,1,1,1,0,0,1,-1,1,0,50,0.001751,150000.0,100,,group round,1
-Portugal Women's,2023,0.346061,1,1,0,0,0,1,-1,1,0,68,0.00216,200000.0,100,,group round,1
-Colombia Women's,2019,0.025649,0,1,1,0,0,1,-1,1,0,50,0.003022,80000.0,50,,round of 8,1
-Colombia Women's,2023,0.053606,1,1,1,0,0,1,-1,1,0,50,0.00423,90000.0,50,,round of 8,1
-Morocco Women's,2019,0.008743,0,1,1,0,0,0,-1,1,0,50,0.001388,50000.0,43,,round of 16,1
-Morocco Women's,2023,0.034971,1,1,0,0,0,0,-1,1,0,84,0.004163,80000.0,43,,round of 16,1
-South Africa Women's,2019,0.778816,1,1,1,0,0,1,-1,1,0,50,0.000692,150000.0,75,group round,round of 16,1
-South Africa Women's,2023,1.168224,1,1,0,0,0,1,-1,1,0,36,0.001385,200000.0,75,group round,round of 16,1
-Nigeria Women's,2019,0.001303,1,1,1,0,0,1,-1,1,0,50,0.000306,80000.0,57,round of 16,round of 16,1
-Nigeria Women's,2023,0.001889,1,1,0,0,0,1,-1,1,0,94,0.000511,90000.0,57,round of 16,round of 16,1
-Argentina Women's,2019,0.062735,0,0,1,0,0,1,-1,1,1,50,0.000674,80000.0,100,group round,group round,1
-Argentina Women's,2023,0.078419,1,1,0,0,0,1,-1,1,1,60,0.000899,90000.0,100,group round,group round,1
-Jamaica Women's,2019,0.136286,0,1,1,0,0,0,-1,0,0,50,0.005111,30000.0,30,group round,round of 16,1
-Jamaica Women's,2023,0.149915,1,1,0,0,0,0,-1,0,0,100,0.006814,50000.0,30,group round,round of 16,1
-New Zealand Women's,2019,0.613999,1,1,1,0,0,0,-1,1,0,50,0.00307,200000.0,50,group round,group round,1
-New Zealand Women's,2023,0.736799,1,1,1,0,0,0,0,1,0,50,0.004093,300000.0,50,group round,group round,1
-Philippines Women's,2019,0.000469,0,0,1,0,0,0,-1,1,0,50,0.000187,50000.0,30,,group round,1
-Philippines Women's,2023,0.001312,1,1,0,0,0,0,0,1,0,80,0.000281,80000.0,30,,group round,1
-Switzerland Women's,2019,0.332805,1,1,1,0,0,1,-1,1,1,50,0.004111,200000.0,75,,round of 16,1
-Switzerland Women's,2023,0.406022,1,1,0,0,0,1,-1,1,1,12,0.005285,250000.0,75,,round of 16,1
-Costa Rica Women's,2019,0.020008,0,1,1,0,0,1,-1,1,0,50,0.003001,100000.0,100,,group round,1
-Costa Rica Women's,2023,0.02601,1,1,1,0,0,1,-1,1,0,40,0.004002,150000.0,100,,group round,1
-Haiti Women's,2019,0.003013,0,0,1,0,0,0,-1,0,0,50,0.000899,20000.0,20,,group round,1
-Haiti Women's,2023,0.006025,0,1,0,0,0,0,-1,0,0,60,0.001349,30000.0,20,,group round,1
-Panama Women's,2019,0.023941,0,1,1,0,0,0,-1,1,0,50,0.004309,40000.0,40,,group round,1
-Panama Women's,2023,0.052669,1,1,0,0,0,0,-1,1,0,40,0.005985,50000.0,40,,group round,1
-Zambia Women's,2019,0.028818,0,1,1,0,0,0,-1,0,0,50,0.001729,50000.0,59,,group round,1
-Zambia Women's,2023,0.072046,1,1,0,0,0,0,-1,0,0,44,0.002882,70000.0,59,,group round,1
-Vietnam Women's,2019,0.000628,0,1,1,0,0,0,-1,1,0,50,0.000419,60000.0,40,,group round,1
-Vietnam Women's,2023,0.00113,1,1,0,0,0,0,0,1,0,70,0.000628,80000.0,40,,group round,1
-Republic of Ireland Women's,2019,0.527005,1,1,1,0,0,1,-1,1,0,50,0.007466,150000.0,60,,group round,1
-Republic of Ireland Women's,2023,0.764157,1,1,0,0,0,1,-1,1,0,35,0.009599,200000.0,60,,group round,1
-Chile Women's,2019,0.003203,0,1,1,0,0,1,-1,1,0,50,0.001068,60000.0,86,group round,,1
-Chile Women's,2023,0.004325,1,1,0,0,0,1,-1,1,0,23,0.001602,80000.0,86,group round,,1
-Cameroon Women's,2019,0.001586,0,1,1,0,0,1,-1,1,0,50,0.001983,50000.0,50,round of 16,,1
-Cameroon Women's,2023,0.00222,1,1,0,0,0,1,-1,1,0,87,0.002776,70000.0,50,round of 16,,1
-Thailand Women's,2019,0.014403,1,1,1,0,0,1,-1,0,0,50,0.000288,80000.0,80,group round,,1
-Thailand Women's,2023,0.016563,1,1,1,0,0,1,-1,0,0,32,0.00036,100000.0,80,group round,,1
-Scotland Women's,2019,0.985937,1,1,1,0,0,1,-1,1,0,50,0.005501,200000.0,70,group round,,1
-Scotland Women's,2023,1.281718,1,1,0,0,0,1,-1,1,0,45,0.007334,300000.0,70,group round,,1
+team,year,number_of_players,club_license_system,federal_strategy,ref_communication,var,glt,league_sponsor,financial_stability,nat_streaming_rights,int_streaming_rights,pro_players_rate,youth_development,social_media,world_cup_exit,attendance,club_income
+Argentina Women's,2018/19,0.062735,0,0,1,0,0,1,0,1,1,50,100,1,group round,0.000674,80000.0
+Argentina Women's,2022/23,0.078419,1,1,0,0,0,1,50,1,1,60,100,1,group round,0.000899,90000.0
+Australia Women's,2018/19,0.590316,1,1,1,0,0,1,0,1,1,50,63,1,round of 16,0.004706,2500000.0
+Australia Women's,2022/23,0.826443,1,1,0,0,0,1,12,1,1,87,63,1,semifinal,0.005211,3500000.0
+Brazil Women's,2018/19,0.00716,0,1,1,0,0,1,0,1,1,50,93,1,round of 16,0.000573,400000.0
+Brazil Women's,2022/23,0.400955,1,1,1,1,0,1,21,1,1,78,93,1,group round,0.001193,850000.0
+Canada Women's,2018/19,0.78275,0,1,1,0,0,0,0,1,0,100,50,1,round of 16,,
+Canada Women's,2022/23,0.900162,1,1,0,0,0,0,0,1,0,100,50,1,group round,,
+China PR Women's,2018/19,0.007179,1,1,1,0,0,1,30,1,1,100,90,1,round of 16,7.2e-05,1000000.0
+China PR Women's,2022/23,0.008615,1,1,1,0,0,1,50,1,1,100,90,1,group round,8.6e-05,1500000.0
+England Women's,2018/19,0.215357,1,1,1,0,0,1,17,1,1,100,100,1,semifinal,0.001819,2000000.0
+England Women's,2022/23,6.073075,1,1,1,0,0,1,33,1,1,100,100,1,runner up,0.003435,5500000.0
+France Women's,2018/19,0.220882,1,1,1,0,0,1,20,1,1,90,67,1,round of 8,0.000901,1500000.0
+France Women's,2022/23,0.532326,1,1,1,0,0,1,33,1,1,95,67,1,round of 8,0.001042,2000000.0
+Germany Women's,2018/19,0.244863,1,1,1,0,0,1,22,1,1,90,100,1,round of 8,0.001032,1500000.0
+Germany Women's,2022/23,0.30363,1,1,1,0,0,1,26,1,1,81,100,1,group round,0.001034,2000000.0
+Italy Women's,2018/19,0.040931,1,1,1,0,0,1,10,1,1,50,100,1,round of 8,0.000464,300000.0
+Italy Women's,2022/23,0.05321,1,1,1,0,0,1,30,1,1,89,100,1,group round,0.00063,400000.0
+Jamaica Women's,2018/19,0.136286,0,1,1,0,0,0,0,0,0,50,30,1,group round,0.005111,30000.0
+Jamaica Women's,2022/23,0.149915,1,1,0,0,0,0,0,0,0,100,30,1,round of 16,0.006814,50000.0
+Japan Women's,2018/19,0.3083,1,1,1,0,0,1,44,1,1,90,100,1,round of 16,0.001059,1000000.0
+Japan Women's,2022/23,0.382292,1,1,1,0,0,1,50,1,1,74,100,1,round of 8,0.001233,2000000.0
+Korea Republic Women's,2018/19,0.008133,1,1,1,0,0,1,13,0,0,50,25,1,group round,0.000678,200000.0
+Korea Republic Women's,2022/23,0.009597,1,1,1,0,0,1,63,0,0,65,25,1,group round,0.000871,300000.0
+Netherlands Women's,2018/19,0.922841,1,1,1,0,0,1,43,1,0,50,100,1,runner up,0.003762,300000.0
+Netherlands Women's,2022/23,1.144323,1,1,0,0,0,1,9,1,0,62,100,1,round of 8,0.004821,400000.0
+New Zealand Women's,2018/19,0.613999,1,1,1,0,0,0,57,1,0,50,50,1,group round,0.00307,200000.0
+New Zealand Women's,2022/23,0.736799,1,1,1,0,0,0,0,1,0,50,50,1,group round,0.004093,300000.0
+Nigeria Women's,2018/19,0.001303,1,1,1,0,0,1,42,1,0,50,57,1,round of 16,0.000306,80000.0
+Nigeria Women's,2022/23,0.001889,1,1,0,0,0,1,78,1,0,94,57,1,round of 16,0.000511,90000.0
+Norway Women's,2018/19,2.067903,1,1,1,0,0,1,60,1,1,50,67,1,round of 8,0.008471,500000.0
+Norway Women's,2022/23,2.5642,1,1,0,0,0,1,33,1,1,42,67,1,round of 16,0.009921,850000.0
+South Africa Women's,2018/19,0.778816,1,1,1,0,0,1,0,1,0,50,75,1,group round,0.000692,150000.0
+South Africa Women's,2022/23,1.168224,1,1,0,0,0,1,0,1,0,36,75,1,round of 16,0.001385,200000.0
+Spain Women's,2018/19,0.12494,1,1,1,0,0,1,10,1,1,90,89,1,round of 16,0.000963,500000.0
+Spain Women's,2022/23,0.299856,1,1,1,0,0,1,22,1,1,99,89,1,winner,0.001284,600000.0
+Sweden Women's,2018/19,1.95669,1,1,1,0,0,1,71,1,1,50,90,1,semifinal,0.008004,2500000.0
+Sweden Women's,2022/23,2.426295,1,1,0,0,0,1,70,1,1,76,90,1,semifinal,0.008162,3500000.0
+United States Women's,2018/19,2.903423,1,1,1,0,0,1,0,1,1,100,67,1,winner,0.002242,5000000.0
+United States Women's,2022/23,3.600244,1,1,1,1,0,1,0,1,1,100,67,1,round of 16,0.002424,6000000.0
